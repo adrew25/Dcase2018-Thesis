@@ -1,0 +1,16 @@
+artifact_uri: file:///run/media/adrew25/DevStorage/Machine_Learning/Thesis_V2/mlruns/0/31e361568b3841958dac8d99f04d2708/artifacts
+deleted_time: 1720864307251
+end_time: 1720863910819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 31e361568b3841958dac8d99f04d2708
+run_name: kindly-asp-817
+run_uuid: 31e361568b3841958dac8d99f04d2708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720863874299
+status: 4
+tags: []
+user_id: adrew25

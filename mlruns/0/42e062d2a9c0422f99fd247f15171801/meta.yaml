@@ -1,0 +1,16 @@
+artifact_uri: file:///run/media/adrew25/DevStorage/Machine_Learning/Thesis_V2/mlruns/0/42e062d2a9c0422f99fd247f15171801/artifacts
+deleted_time: 1720864307250
+end_time: 1720864291469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 42e062d2a9c0422f99fd247f15171801
+run_name: carefree-flea-186
+run_uuid: 42e062d2a9c0422f99fd247f15171801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720863946338
+status: 4
+tags: []
+user_id: adrew25
